@@ -1,6 +1,6 @@
 # Audit-Profile
 
-## Reorts
+## Reports
 |   Protocol   |   Issue found    |  Highs  |   Mediums   | Informational/Low  | Platform   |   Reports    |
 |--------------|------------------|---------|-------------|--------------------|------------|--------------|
 | Rio network  |        1         |     1   |      0      |          0         |  Sherlock  | https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/16  |
