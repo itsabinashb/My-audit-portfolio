@@ -1,5 +1,5 @@
 # Profile
-### Total issues found: 12
+### Total issues found: 14
 
 ## Reports
 |   Protocol   |   Issue found    |  Highs  |   Mediums   | Informational/Low  | Platform   |   Reports    |
