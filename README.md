@@ -10,4 +10,4 @@
 |    Noya      |        3         | unknow  |      1      |     unknown        |  Codearena | https://github.com/code-423n4/2024-04-noya-findings/issues |
 |    CCIP      |        1         |     0   |      0      |          1         |  Codehawks | Currently Private                  |
 | Intuition    |        1         |     0   |      0      |          1         |  HatsFinance | https://github.com/hats-finance/Intuition-0x538dbadc50cc87b281cd655f1edbc6ebda02a66a/issues/55 |
-| Tadle        |        9         |     8   |      0      |          1         |  Codehawks | 
+| Tadle        |        9         |     8   |      0      |          1         |  Codehawks | [Click me](https://github.com/itsabinashb/Audit-Profile/blob/main/Tadle-Audit-Report.md)
