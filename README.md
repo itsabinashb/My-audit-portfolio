@@ -1,6 +1,6 @@
 # Profile
 
-## Reports
+## Audit contest Reports
 |   Protocol   |   Issue found    |  Highs  |   Mediums   |         Low        | Platform   |   Reports    |
 |--------------|------------------|---------|-------------|--------------------|------------|--------------|
 | Rio network  |        1         |     1   |      0      |          0         |  Sherlock  | https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/16  |
@@ -10,3 +10,4 @@
 |    CCIP      |        1         |     0   |      0      |          1         |  Codehawks | Currently Private                  |
 | Intuition    |        1         |     0   |      0      |          1         |  HatsFinance | https://github.com/hats-finance/Intuition-0x538dbadc50cc87b281cd655f1edbc6ebda02a66a/issues/55 |
 | Tadle        |        9         |     8   |      0      |          1         |  Codehawks | [Click me](https://github.com/itsabinashb/Audit-Profile/blob/main/Tadle-Audit-Report.md)
+| Boost protocol |      1         |     1   |      0      |          0         |  Sherlock  | https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/339 |
