@@ -12,4 +12,6 @@
 | **Boost Protocol** | 1                   | 1           | 0             | 0         | Sherlock        | [🔗 View Report](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/339) |
 
 # 🔍 **Private Audits**
-1. 1 private audit with [CDSecurity](https://github.com/CDSecurity).
+| 🏢**Audit Firm** | ✅**Protocol** |
+|----------------|--------------|
+| [CDSecurity](https://github.com/CDSecurity) | private |
