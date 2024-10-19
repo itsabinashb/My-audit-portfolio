@@ -1,3 +1,5 @@
+# 30+ vulnerabilities found with 15+ high/critical
+
 # 🔍 **Audit Contest Reports**
 
 | 🌐 **Protocol**   | 🛠️ **Issues Found** | 🔴 **High** | 🟠 **Medium** | 🟢 **Low** | 💻 **Platform** | 📄 **Report** |
