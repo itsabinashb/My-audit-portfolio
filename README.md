@@ -12,6 +12,9 @@
 | **Intuition**      | 1                   | 0           | 0             | 1         | HatsFinance     | [🔗 View Report](https://github.com/hats-finance/Intuition-0x538dbadc50cc87b281cd655f1edbc6ebda02a66a/issues/55) |
 | **Tadle**          | 9                   | 8           | 0             | 1         | Codehawks       | [🔗 View Report](https://github.com/itsabinashb/Audit-Profile/blob/main/Tadle-Audit-Report.md) |
 | **Boost Protocol** | 1                   | 1           | 0             | 0         | Sherlock        | [🔗 View Report](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/339) |
+| **Euro Dollar**    | 1                   | 0           | 1             | 0         | HatsFinance     | 
+| **Interpol**       | 5                   | 0           | 0             | 5         | Cantina         |
+
 
 # 🔍 **Private Audits**
 | 🏢**Audit Firm** | ✅**Protocol** | **Audit count** |
