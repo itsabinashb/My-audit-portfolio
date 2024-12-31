@@ -1,4 +1,4 @@
-# 30+ vulnerabilities found with 15+ high/critical
+# 🥉 - 1
 
 # 🔍 **Audit Contest Reports**
 
