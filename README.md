@@ -1,4 +1,7 @@
-# 🥉 - 1
+Hey there, this is Abinash aka itsabinashb. I am smart contract security researcher with 1+ years of experience. I am skilled in auditing different kind of defi protocols like lending-borrowing, staking, perpetuals & any kind of solidity smart contracts. I have also worked as a soldity developer before starting my auditing career which gave me a strong base in auditing. Below are few of my audit works with report link. 
+
+Connect with me for collaboration: [twitter](https://x.com/itsabinashb), [telegram](https://t.me/itsabinashb)
+
 
 # 🔍 **Audit Contest Reports**
 
