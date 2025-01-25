@@ -1,6 +1,6 @@
-Hey there, this is Abinash aka itsabinashb. I am smart contract security researcher with 1+ years of experience. I am skilled in auditing different kind of defi protocols like lending-borrowing, staking, perpetuals & any kind of solidity smart contracts. I have also worked as a soldity developer before starting my auditing career which gave me a strong base in auditing. Below are few of my audit works with report link. 
+### *Hey there, this is Abinash aka itsabinashb. I am smart contract security researcher with 1+ years of experience. I am skilled in auditing different kind of defi protocols like lending-borrowing, staking, perpetuals & any kind of solidity smart contracts. I have also worked as a soldity developer before starting my auditing career which gave me a strong base in auditing. Below are few of my audit works with report link.* 
 
-Connect with me for collaboration: [twitter](https://x.com/itsabinashb), [telegram](https://t.me/itsabinashb)
+*Connect with me for collaboration: [twitter](https://x.com/itsabinashb), [telegram](https://t.me/itsabinashb)*
 
 
 # 🔍 **Audit Contest Reports**
@@ -24,3 +24,14 @@ Connect with me for collaboration: [twitter](https://x.com/itsabinashb), [telegr
 |----------------|--------------|--------------|
 | [CDSecurity](https://github.com/CDSecurity) | private | 1 |
 | [Bailsec](https://x.com/bailsecurity) | private | 1 |
+
+# 🏫 **Development work**
+| **Project name** | **Code** |
+|----------------------|---------------------|
+| **Consultancy service** | [A state channel based web3 application](https://github.com/itsabinashb/Consultancy-Service) |
+| **Real estate NFT** | [A land buying contract where each land is treated as a NFT. Using ULPIN [ Unique Land Parcel Identification Number ] issued by Indian Govt. so this contract can be treated as real world application.](https://github.com/itsabinashb/Real-Estate-NFT) |
+| **Flash loan arbitrage** | [click here](https://github.com/itsabinashb/Flash-Loan-Arbitrage) |
+| **Modified Ownable** | [A contract with access control mechanism where 3 admins can be added. Features like assigning new admin, renounce ownership etc is available.](https://github.com/itsabinashb/Ownable-Contract) |
+| **NFT based upgradeable game** | [An upgradeable NFT based game where user will get a NFT as prize whenever he/she wins.](https://github.com/itsabinashb/NFT-based-Upgradeable-game) |
+| **Merkletree backend** | [click here](https://github.com/itsabinashb/Merkletree-backend) |
+| **Merkleproof backend** | [A authentication enabled backend application where you can set any address to database by sending a POST request and get merkle-proof of any address by sending GET request.](https://github.com/itsabinashb/MerkleProofBackend) |
