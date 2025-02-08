@@ -17,6 +17,7 @@
 | **Boost Protocol** | 1                   | 1           | 0             | 0         | Sherlock        | [🔗 View Report](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/339) |
 | **Euro Dollar**    | 1                   | 0           | 1             | 0         | HatsFinance     | 
 | **Interpol**       | 5                   | 0           | 0             | 5         | Cantina         |
+| **Secondswap**     | 5                   | 1           | 3             | 1         | Codearena       |
 
 
 # 🔍 **Private Audits**
