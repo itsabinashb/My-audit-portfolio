@@ -26,9 +26,9 @@
 | [CDSecurity](https://github.com/CDSecurity) | private | 1 |
 | [Bailsec](https://x.com/bailsecurity) | private | 1 |
 ## Solo private audits
-| **Project** | **Issues found** |
-|-------------|------------------|
-| MaAvatar    |  9 (6H, 2M, 1L)  |
+| **Project** | **Issues found** | **Report** |
+|-------------|------------------|------------|
+| MaAvatar    |  9 (6H, 2M, 1L)  | [🔗 View Report](https://github.com/itsabinashb/My-audit-portfolio/blob/main/MaAvatarIssues.pdf) |
 
 # 🏫 **Development work**
 | **Project name** | **Code** |
