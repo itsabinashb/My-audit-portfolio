@@ -5,7 +5,7 @@
 
 # 🔍 **Audit Contest Reports**
 
-| 🌐 **Protocol**   | 🛠️ **Issues Found** | 🔴 **High** | 🟠 **Medium** | 🟢 **Low** | 💻 **Platform** | 📄 **Report** |
+|  **Protocol**   |  **Issues Found** |  **High** |  **Medium** |  **Low** |  **Platform** |  **Report** |
 |-------------------|--------------------:|------------:|--------------:|----------:|----------------:|--------------:|
 | **Rio Network**    | 1                   | 1           | 0             | 0         | Sherlock        | [🔗 View Report](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/16) |
 | **DYAD**           | 8                   | 4           | 2             | 2         | Codearena       | [🔗 View Report](https://github.com/code-423n4/2024-04-dyad-findings/issues) |
@@ -21,7 +21,7 @@
 
 
 # 🔍 **Private Audits**
-| 🏢**Audit Firm** | ✅**Protocol** | **Audit count** |
+| **Audit Firm** | **Protocol** | **Audit count** |
 |----------------|--------------|--------------|
 | [CDSecurity](https://github.com/CDSecurity) | private | 1 |
 | [Bailsec](https://x.com/bailsecurity) | private | 1 |
