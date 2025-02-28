@@ -25,6 +25,7 @@ Below, you’ll find a curated list of my **audit reports** and **development pr
 | **Euro Dollar**     | 1                | 0        | 1          | 0       | HatsFinance    |                                                                           |
 | **Interpol**        | 5                | 0        | 0          | 5       | Cantina        |                                                                           |
 | **Secondswap**      | 5                | 1        | 3          | 1       | Codearena      |                                                                           |
+| **Liquid Ron**      | 1                | 0        | 1          | 0       | Codearena      |                
 
 ---
 
