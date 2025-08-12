@@ -1,5 +1,5 @@
 ### **👋 Hey there! I'm Abinash, aka itsabinashb**  
-I’m a **Smart Contract Security Researcher** with **1+ years of experience** in auditing and securing DeFi protocols. My expertise spans a wide range of DeFi ecosystems, including **lending-borrowing platforms, staking mechanisms, perpetuals, and custom Solidity smart contracts**.  
+I’m a **Smart Contract Security Researcher** with **2+ years of experience** in auditing and securing DeFi protocols. My expertise spans a wide range of DeFi ecosystems, including **lending-borrowing platforms, staking mechanisms, perpetuals, and custom Solidity smart contracts**.  
 
 Before diving into security auditing, I worked as a **Solidity Developer**, which provided me with a deep understanding of smart contract architecture and development. This foundation has been instrumental in my ability to identify vulnerabilities and ensure robust security in decentralized systems.  
 
