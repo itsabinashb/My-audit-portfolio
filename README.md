@@ -33,6 +33,8 @@ Below, you’ll find a curated list of my **audit reports**. Let’s collaborate
 | Merkl    | Codearena  | 2
 | Monolith | Sherlock | 1
 | Spend Permission | Cantina | 1
+| FJord token staking | Codehawks | 2 |
+| Sablier | Codehawks | 1 |
 
 ---
 
