@@ -16,6 +16,7 @@ Below, you’ll find a curated list of my **audit reports**. Let’s collaborate
 |----------------|-------------|--------------|---------------------------------|------------------------------------------------------------------------|
 | Kwenta staking contract | Sherlock | 1      | 1 High
 | Sentiment V2  | Sherlock | 
+| Telecoin Update | Sherlock|
 | Boost Core Incentive | Sherlock | 1      | 1 High 
 | Rio Network    | Sherlock    | 1            | 1 High                          | [🔗 View Report](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/16) |
 | DYAD Stablecoin| Codearena   | 8            | 4 High, 2 Medium, 2 Low         | [🔗 View Report](https://github.com/code-423n4/2024-04-dyad-findings/issues) |
@@ -26,6 +27,7 @@ Below, you’ll find a curated list of my **audit reports**. Let’s collaborate
 | Tadle          | Codehawks   | 9            | 8 High, 1 Low                   | [🔗 View Report](https://github.com/itsabinashb/Audit-Profile/blob/main/Tadle-Audit-Report.md) |
 | Boost Protocol | Sherlock    | 1            | 1 High                          | [🔗 View Report](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/339) |
 | Euro Dollar    | HatsFinance | 1            | 1 Medium                        | Not Published                                                          |
+| Nouns Dao | Sherlock |
 | Interpol       | Cantina     | 5            | 5 Low                           | Not Published                                                          |
 | Secondswap     | Codearena   | 5            | 1 High, 3 Medium, 1 Low         | Not Published                                                          |
 | Liquid Ron     | Codearena   | 1            | 1 Medium                        | Not Published                                                          |
