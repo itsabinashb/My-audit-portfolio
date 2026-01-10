@@ -14,6 +14,9 @@ Below, you’ll find a curated list of my **audit reports**. Let’s collaborate
 
 | Protocol       | Platform     | Issues Found | Severity                        | Report                                                                 |
 |----------------|-------------|--------------|---------------------------------|------------------------------------------------------------------------|
+| Kwenta staking contract | Sherlock | 1      | 1 High
+| Sentiment V2  | Sherlock | 
+| Boost Core Incentive | Sherlock | 1      | 1 High 
 | Rio Network    | Sherlock    | 1            | 1 High                          | [🔗 View Report](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/16) |
 | DYAD Stablecoin| Codearena   | 8            | 4 High, 2 Medium, 2 Low         | [🔗 View Report](https://github.com/code-423n4/2024-04-dyad-findings/issues) |
 | Munchables     | Codearena   | 1            | 1 High                          | [🔗 View Report](https://github.com/code-423n4/2024-05-munchables-findings/issues/7) |
@@ -26,21 +29,27 @@ Below, you’ll find a curated list of my **audit reports**. Let’s collaborate
 | Interpol       | Cantina     | 5            | 5 Low                           | Not Published                                                          |
 | Secondswap     | Codearena   | 5            | 1 High, 3 Medium, 1 Low         | Not Published                                                          |
 | Liquid Ron     | Codearena   | 1            | 1 Medium                        | Not Published                                                          |
+| Alinerz        | Dual Guard  | 7  | Unknown |
+| Merkl    | Codearena  | 2
+| Monolith | Sherlock | 1
+| Spend Permission | Cantina | 1
 
 ---
 
-## **🔒 Private Audits**
+## **🔒 Private Audits & Internships**
+| Audit Firm | Number of audits |
+|------------|------------------|
+| Pashov Audit Group | 2 |
+| Bailsec | 1 |
+| CDSecurity | 1 |
+| Sub7 Security | 1 |  
 
-### **Audit Firms**  
-- **CDSecurity:** 1 Private Audit  
-- **Bailsec:** 1 Private Audit  
-- **Sub7 Security:** 1 Private Audit  
-
-### **Solo Private Audits**
+## **Solo Private Audits**
 
 | Protocol   | Issues Found | Severity                        | Report                                                                 |
 |------------|--------------|---------------------------------|------------------------------------------------------------------------|
 | MaAvatar   | 9            | 6 High, 2 Medium, 1 Low         | [🔗 View Report](https://github.com/itsabinashb/My-audit-portfolio/blob/main/MaAvatarIssues.pdf) |
+| VaultLayer | 1            | 1 critical      | [🔗 View Report](https://drive.google.com/file/d/14cUGGI5o-soa1QOnE0NgzMscvTcP0iCu/view) |
 
 ---
 
