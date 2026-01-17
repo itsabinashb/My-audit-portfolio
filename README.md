@@ -38,9 +38,13 @@ Below, you’ll find a curated list of my **audit reports**. Let’s collaborate
 | FJord token staking | Codehawks | 2 |  |  Solidity
 | Sablier | Codehawks | 1 | |  Solidity
 
----
+## **Engagements**
+| Company name | Ecosystem | Language | Bug found |
+|--------------|-----------|----------|-----------|
+| Sub7 Security|   EVM     | Typescript | 1 Critical |
+| Adevar labs  |   Solana  | Rust      | 1 Medium 1 Low |
 
-## **🔒 Private Audits & Internships**
+## **Private Audits & Internships**
 | Audit Firm | Number of audits | Language |
 |------------|------------------|----------|
 | Pashov Audit Group | 2 | Solidity
