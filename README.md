@@ -43,6 +43,7 @@ Below, you’ll find a curated list of my **audit reports**. Let’s collaborate
 |--------------|-----------|----------|-----------|
 | Sub7 Security|   EVM     | Typescript | 1 Critical |
 | Adevar labs  |   Solana  | Rust      | 1 Medium 1 Low |
+| Shieldify Security | EVM | Solidity | 1 High |
 
 ## **Private Audits & Internships**
 | Audit Firm | Number of audits | Language |
