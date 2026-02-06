@@ -39,11 +39,12 @@ Below, you’ll find a curated list of my **audit reports**. Let’s collaborate
 | Sablier | Codehawks | 1 | |  Solidity
 
 ## **Engagements**
-| Company name | Ecosystem | Language | Bug found |
+| Company name | Ecosystem | Protocol | Language |
 |--------------|-----------|----------|-----------|
-| Sub7 Security|   EVM     | Typescript | 1 Critical |
-| Adevar labs  |   Solana  | Rust      | 1 Medium 1 Low |
-| Shieldify Security | EVM | Solidity | 1 High |
+| Sub7 Security|   EVM     | VaultLayer | Typescript 
+| Adevar labs  |   Solana  | Star Vault| Rust      
+| Shieldify Security | Abstract | Ruyui | Solidity 
+| Shieldify Security | EVM | Primev | Solidity
 
 ## **Private Audits & Internships**
 | Audit Firm | Number of audits | Language |
